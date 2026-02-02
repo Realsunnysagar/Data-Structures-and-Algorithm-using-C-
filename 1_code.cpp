@@ -33,8 +33,6 @@ variables --> a,b,c(identifier)
 #define PI 3.14 //Macros --> symbolic constants
 #include<iomanip> //--->for setprecision
 using namespace std;
-
-
 int main(){
     cout<<"Let's do it!!\n ";
 
@@ -64,4 +62,4 @@ int main(){
     int avg = (eng + sci + math) / 3;
     cout<<"avg marks ="<<avg<<endl;
     return 0;
-} 
+}
