@@ -17,7 +17,7 @@
             vector.pop_back();
      }
 3.Stack Implementation
-    -using Vector with class template
+    - using Vector with class template
     - we need to create a stack for different datatype let say float, int , char, string, bool
     - To resolve this we have special feature that is class template
     - template<class T> =>write this above the class and variable is like vecotor<T> vec;
